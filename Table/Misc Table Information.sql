@@ -1,0 +1,20 @@
+--How do I find all the user-defined tables in a specified database?
+--How do I find all the tables that do not have a clustered index in a specified database?
+--How do I find all the tables that do not have an index?
+--How do I find all the tables that do not have a primary key?
+--How do I find all the tables that have an identity column?
+--How do I find all the tables and indexes that are partitioned?
+--How do I find all views in a database?
+--How do I find the definition of a view?
+--How do I find all the entities that have been modified in the last N days?
+--How do I find the columns of a primary key for a specified table?
+--How do I find the columns of a foreign key for a specified table?
+--How do I determine if a column is used in a computed column expression?
+--How do I find all the columns that are used in a computed column expression?
+--How do I find all the constraints for a specified table?
+--How do I find all the indexes for a specified table?
+--How do I find all the tables that have a specified column name?
+--How do I find all the statistics on a specified object?
+--How do I find all the statistics and statistics columns on a specified object?
+
+-- https://msdn.microsoft.com/en-us/library/ms345522.aspx
